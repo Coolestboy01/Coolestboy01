@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ojo Kayode Emmanuel</h1>
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typescript and Angular**
 
 - 👯 I’m looking to collaborate on **project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Coolestboy01](https://github.com/Coolestboy01)
 
-- 💬 Ask me about **HTML, CSS and JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT and REACT**
 
 - 📫 How to reach me **kayode2015@gmail.com**
 
